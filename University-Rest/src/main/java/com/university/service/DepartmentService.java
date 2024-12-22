@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class DepartmentService {
-
+    // This class does something
     @Autowired
     DepartmentRepository departmentRepository;
 
